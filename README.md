@@ -1,3 +1,6 @@
+# 💫 About Me:
+I’m currently studying Full Stack Development at GoMyCode, where I’m learning to build complete web applications using both front-end and back-end technologies.<br>Passionate about problem-solving, clean code, and creating digital experiences that are both functional and user-friendly.<br>I’m continuously improving my skills in HTML, CSS, JavaScript, and backend frameworks, with the goal of becoming a professional full stack developer.<br><br>📚 Always learning<br>💡 Open to collaboration<br>🚀 Working on personal projects to strengthen my portfolio
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdelazizidlahsen1234-cell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelaziz-id-lahcen-089612353/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bdelazizidlahcen.etu@gmail.com) 
